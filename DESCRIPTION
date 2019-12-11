@@ -1,5 +1,5 @@
 Package: praiseme
-Title: Deliver praise to someone
+Title: Deliver praise to someone because it is nice to give praise.
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Tania",
