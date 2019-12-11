@@ -4,12 +4,12 @@
 \alias{praise}
 \title{Deliver praise}
 \usage{
-praise(name, punctuation)
+praise(name, punctuation = "!")
 }
 \arguments{
 \item{name}{Name of person to praise.}
 
-\item{punctuation}{This is our emphasis as a text output.}
+\item{text}{string, punctuation This is our emphasis as a text output. default is "!"}
 }
 \value{
 Text string with praise
